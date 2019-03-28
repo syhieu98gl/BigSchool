@@ -18,8 +18,6 @@ namespace BigSchool.Controllers
         }
         // GET: Courses
         /// <summary>
-        /// sdzxfcgvbn
-        /// </summary>
         /// <returns></returns>
         public ActionResult Create()
         {

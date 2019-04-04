@@ -50,3 +50,7 @@ textarea {
 .course > li:hover .action{
     display: block;
 }
+.navbar-inverse {
+    background-color: #BF385F;
+    border-color: #080808;
+}
